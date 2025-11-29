@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Kaya <img src="https://github.com/user-attachments/assets/c0eacc89-4530-483e-b2e9-b3e4e68dfaac?raw=true" width="40"/>
 
 <!--
 **kayamerel/kayamerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
