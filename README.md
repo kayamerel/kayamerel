@@ -1,4 +1,10 @@
-Hi, I'm Kaya <img src="https://github.com/user-attachments/assets/c0eacc89-4530-483e-b2e9-b3e4e68dfaac?raw=true" width="40"/>
+**Hi, I'm Kaya** <img src="https://github.com/user-attachments/assets/c0eacc89-4530-483e-b2e9-b3e4e68dfaac?raw=true" width="40"/>
+
+**Some of my projects:** <br>
+🎥 Stereoscopic rendering of ZED 2 camera stream in Meta Quest 3 Headset: https://github.com/kayamerel/ZedToQuest <br>
+🍎 Experimentation for stereoscopic rendering of ZED 2 camera stream in Apple Vision Pro Headset: https://github.com/kayamerel/ZedVisionProStream <br>
+🐅 Stone Age themed version of the game Carcassone: https://github.com/Elise-rbh/projet-Elise-Kaya <br>
+
 
 <!--
 **kayamerel/kayamerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
