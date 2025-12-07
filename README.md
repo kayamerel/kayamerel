@@ -1,6 +1,8 @@
 **Hi, I'm Kaya** <img src="https://github.com/user-attachments/assets/c0eacc89-4530-483e-b2e9-b3e4e68dfaac?raw=true" width="40"/>
 
+
 **Some of my projects:** <br>
+<img src="https://github.com/user-attachments/assets/0dac5ebc-c06d-4656-ab76-3c869e7a0ddf?raw=true" width="23"> Link to my website https://laratatouille.org <br>
 🎥 Stereoscopic rendering of ZED 2 camera stream in Meta Quest 3 Headset: https://github.com/kayamerel/ZedToQuest <br>
 🍎 Experimentation for stereoscopic rendering of ZED 2 camera stream in Apple Vision Pro Headset: https://github.com/kayamerel/ZedVisionProStream <br>
 🐅 Stone Age themed version of the game Carcassone: https://github.com/Elise-rbh/projet-Elise-Kaya <br>
