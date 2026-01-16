@@ -1,11 +1,16 @@
+### 3D Lego Printer
+🧱 In the scope of the course Making Intelligent Things (CS-358(a)) at EPFL, modified a Prusa 3D printer to function as a LEGO-compatible printer capabale of assembling BrickLink designs.
+</br>
+**LegoBeans:** https://github.com/epfl-cs358/2025fa-legobeans
+
 ### Personal Website
 
-🍵 https://laratatouille.org  
-Recipes, writing and (film) photography.
+🍵 Website I created for fun with recipes, writings and (film) photography. </br>
+**LaRatatouille:** https://laratatouille.org  
 
 ### XR Projects
 
-👓 Experimented with the Meta Quest 3 and Apple Vision Pro
+👓 Experimented with the Meta Quest 3 and Apple Vision Pro to render stereoscopic camera feed.
 
 - **ZedToQuest:** Meta Quest 3  
   https://github.com/kayamerel/ZedToQuest
