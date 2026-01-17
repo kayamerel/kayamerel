@@ -1,12 +1,12 @@
 ### 3D Lego Printer
 🧱 In the scope of the course Making Intelligent Things (CS-358(a)) at EPFL, modified a Prusa 3D printer to function as a LEGO-compatible printer capabale of assembling BrickLink designs.
 </br>
-**LegoBeans:** https://github.com/epfl-cs358/2025fa-legobeans
+- **LegoBeans:** https://github.com/epfl-cs358/2025fa-legobeans
 
 ### Personal Website
 
 🍵 Website I created for fun with recipes, writings and (film) photography. </br>
-**LaRatatouille:** https://laratatouille.org  
+- **LaRatatouille:** https://laratatouille.org  
 
 ### XR Projects
 
