@@ -1,3 +1,7 @@
+### N-Pulse CV
+🦾 Working on computer vision pipeline for prothesis arm grasping.
+- **ARM-SOFT-Grasping:** https://github.com/N-Pulse/ARM-SOFT-Grasping
+
 ### 3D Lego Printer
 🧱 In the scope of the course Making Intelligent Things (CS-358(a)) at EPFL, modified a Prusa 3D printer to function as a LEGO-compatible printer capabale of assembling BrickLink designs.
 </br>
